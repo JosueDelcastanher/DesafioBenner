@@ -1,0 +1,28 @@
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.exe
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.deps.json
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.runtimeconfig.json
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.dll
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.pdb
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.AssemblyInfo.cs
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.dll
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\refint\ProjectBenner.dll
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.pdb
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.genruntimeconfig.cache
+C:\Users\josue\source\repos\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ref\ProjectBenner.dll
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.exe
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.deps.json
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.runtimeconfig.json
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.dll
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\bin\Debug\net8.0\ProjectBenner.pdb
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.AssemblyInfoInputs.cache
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.AssemblyInfo.cs
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.dll
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\refint\ProjectBenner.dll
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.pdb
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ProjectBenner.genruntimeconfig.cache
+C:\Users\josue\OneDrive\Área de Trabalho\ProjectBenner\ProjectBenner\obj\Debug\net8.0\ref\ProjectBenner.dll
